@@ -97,11 +97,9 @@ seaborn-lab/
 
 ## 📚 Learning Resources
 
-- 🔹 Official Seaborn Documentation  
-- 🔹 Kaggle: Data Visualization  
-- 🔹 CampusX – Seaborn Tutorials  
-- 🔹 FreeCodeCamp – Python Visualization Course  
-- 🔹 StatQuest — Visualization Concepts  
+- 🔹 [CampusX - Seaborn Part 1](https://www.youtube.com/live/DWVLRhnuGqI?si=TpALNktPQqRXHNpg)
+- 🔹 [CampusX - Seaborn Part 2](https://www.youtube.com/live/kLWeKeqc9Ms?si=DV6pA8WxcitPBh02)
+ 
 
 ---
 
